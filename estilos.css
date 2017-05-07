@@ -1,0 +1,384 @@
+
+#head {
+    background-color: black;
+    height: 47px;
+    width: 100%;
+    z-index: -1;
+    position: fixed;
+    left: 0%;
+    top: 0%;
+}
+   
+.tienda {
+     width: 85px;
+    height: 40px;
+    z-index: 5;
+    position: relative;
+    float: left;
+    top: 7%;
+    left: 5%;
+}
+
+.logos {
+    width: 25px;
+    height: 25px;
+     position: relative;
+    float: right;
+     top: 20%;
+    right: 10%;
+    margin-right: 3%;
+}
+
+.logos2 {
+     width: 30px;
+    height: 30px;
+     position: relative;
+    float: right;
+     top: 15%;
+    right: 10%;
+}
+
+img {
+    
+}
+
+select {
+    background-color: gold;
+    font-family: sans-serif;
+    border-color: dodgerblue;
+    border-radius: 7px;
+    font-size: 13pt;
+    color: white;
+}
+
+form {
+    
+    margin-top: 30px;
+    margin-left: 10px;
+    background: url('/home.png');
+    background-position: center;
+}
+
+div {
+     z-index: 5;
+    position: relative;
+    float: left;
+    left: 30%;
+    height: 55px; 
+    top: 0%;
+}
+
+body {
+    background-color: white;
+    width: 100%;
+    height: 3000px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.barra {
+    width: 36px;
+    height: 36px;
+}
+
+input {
+    border-radius: 5px;
+}
+
+p {
+    color: white;
+    font-size: 12pt;
+    align-items: center;
+}
+
+
+.izq {
+    margin-left: 5px;
+}
+
+.center {
+    padding-left: 50%;
+    font-size: 25pt;
+}
+
+.der {
+    padding-left: 40%;
+}
+
+.principal {
+    overflow: hidden;
+}    
+
+
+.logos3 {
+    width: 25px;
+    height: 25px;
+     position: relative;
+    float: right;
+     top: 20%;
+    right: 5%;
+}
+
+.logossearch {
+     width: 25px;
+    height: 25px;
+     position: relative;
+    top: 0%;
+    left: 15%;
+}
+
+h3 {
+   font-size: 12pt;
+    font-family: monospace;
+    display: inline-block;
+    position: relative;
+    left: 15%;
+    right: 50%;
+    color:white;
+}
+
+#catalogo {
+    /*border: 2px solid black;*/
+    position: absolute;
+    float: left;
+    left: 20%;
+    top: 30%;
+    width: 60%;
+    background-color: lightpink;
+    z-index: -4;
+}
+
+h1 {
+     color: white;
+    font-size: 18pt;
+}
+
+#imagenes {
+    /*border: 2px solid black;*/
+    position: absolute;
+    left: 3%;
+    top: 40%;
+    width: 90%;
+    height: 70%;
+    display: inline-block;
+    z-index: -5z
+    background-image: url("fondo2.jpg");
+}
+
+#blusa {
+    position:relative;
+    width: 30%;
+    height: 100%;
+    left: 5%;
+}
+
+#offer {
+    width: 15%;
+    height: 18%;
+    position: absolute;
+    left: 30%;
+    top: 40%;
+    z-index: 2;
+}
+
+#offer2 {
+      width: 15%;
+    height: 18%;
+    position: absolute;
+    left: 60%;
+    top: 40%;
+    z-index: 2;
+}
+
+#imagenes2 {
+    /*border: 2px solid black;*/
+     position: absolute;
+    float: left;
+    left:1%;
+    top: 800px;
+    width: 98%;
+    height: 70%;
+    display: inline-block;
+    z-index: -5;
+    background-image: url("fondo3.jpg");
+}
+
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#pantalon {
+    position:relative;
+    width: 24%;
+    height: 100%;
+    left: 3%;
+}
+
+#offerp {
+    width: 15%;
+    height: 18%;
+    position: absolute;
+    left: 20%;
+    top: 60%;
+    z-index: 2;
+}
+
+#offerp2 {
+     width: 15%;
+    height: 18%;
+    position: absolute;
+    left: 68%;
+    top: 20%;
+    z-index: 2;
+}
+
+a {
+     position: relative;
+    margin-left: 40px;
+    margin-right: 20%;
+    color:white;
+}
+
+#logo2 {
+    width: 25%;
+    height: 100%;
+}
+
+#for {
+    width:  100px;
+    height: 100px;
+}
+
+#blusa1 {
+    position:relative;
+    width: 30%;
+    height: 100%;
+    left: 5%;
+}
+
+#blusa2 {
+    position:relative;
+    width: 30%;
+    height: 100%;
+    left: 5%;
+}
+
+#pantalon1 {
+     position:relative;
+    width: 24%;
+    height: 100%;
+    left: 3%;
+}
+
+#pantalon2 {
+     position:relative;
+    width: 24%;
+    height: 100%;
+    left: 3%;
+}
+
+#pantalon3 {
+     position:relative;
+    width: 24%;
+    height: 100%;
+    left: 1%;
+    right: 5%;
+}
+
+#draggable {
+    position: relative;
+    float: left;
+    left: 43%;
+    top: 3%;
+    width: 10%;
+    height: 3%;
+}
+
+
+h4 {
+    position: absolute;
+    font-size: 12px;
+    color: palevioletred;
+}
+
+#menu {
+    width: 10%;
+}
+
+.unfav {
+   
+}
+
+.unfav2 {
+    
+}
+
+.unfav3 {
+   
+}
+
+#unfav {
+     position: absolute;
+    left: 5.5%;
+    width: 40px;
+    height: 40px;
+    z-index: 5;
+    display: inline-block;
+}
+
+#div {
+    /*--width: 50px;
+    height: 50px;*/
+    z-index: 5;
+}
+
+#cuenta {
+    position: relative;
+    left: 5.5%;
+    top: 45%;
+    width: 34px;
+    height: 34px;
+    background: white;
+    z-index: 5;
+}
+
+#unfav2 {
+    position: absolute;
+    left: 36%;
+    width: 40px;
+    height: 40px;
+    z-index: 5;
+    display: inline-block;
+}
+
+#unfav3 {
+     position: absolute;
+    left: 68%;
+    width: 40px;
+    height: 40px;
+    z-index: 5;
+    display: inline-block;
+}
+
+#login {
+   
+}
+
+#doc {
+    position: absolute;
+    left: 89%;
+    top: 2%;
+}
+
+#loghtml {
+     background-color: pink;
+     position: absolute;
+   left:  80%;
+    top: 100%;
+    width: 20%;
+    height: 300%;
+   
+}
